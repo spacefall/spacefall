@@ -1,6 +1,6 @@
 ### Hello! 👋
 - 🌱 I’m currently learning Web Dev (HTML, CSS, JS/TS) and Java (school)
-- 🔭 I’m currently working on [leafy](https://github.com/spacefall/leafy)
+- 🔭 I’m currently working on [leafy](https://github.com/spacefall/leafy) and [marker](https://github.com/spacefall/marker)
 - 😄 Pronouns: he/him
 - 📫 Reach me:
   -  📧 Email: spacefall@5822.it
