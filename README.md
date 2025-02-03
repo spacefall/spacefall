@@ -1,8 +1,10 @@
-### Hi there 👋
-
-- 🌱 I’m currently learning Go, Rust and Dart
-- 🔭 I’m currently working on Stalewall ([client](https://github.com/spacefall/stalewall-client)/[server](https://github.com/spacefall/stalewall-api)) and [Tableau](https://github.com/spacefall/tableau)
+### Hello! 👋
+- 🌱 I’m currently learning Web Dev (HTML, CSS, JS/TS) and Java (school)
+- 🔭 I’m currently working on [leafy](https://github.com/spacefall/leafy)
 - 😄 Pronouns: he/him
+- 📫 Reach me:
+  -  📧 Email: spacefall@5822.it
+  -  💬 Discord: @spacefell
 
 <!--
 **spacefall/spacefall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
